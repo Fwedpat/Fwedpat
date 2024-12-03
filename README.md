@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning Loss Minimisation techniques, and of course my Artifical Intelligence MSc with Large Scale Databases, ML, NLP Deep Learning and Computational Optimisation
 - 💞️ I’m looking to collaborate on any project that interests me!
 - 📫 How to reach me reach me at pattersonf@cardiff.ac.uk or on Teams with the same email!
-https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg
+- 
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 <!---
 Fwedpat/Fwedpat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
